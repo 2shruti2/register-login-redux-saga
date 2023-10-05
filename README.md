@@ -1,3 +1,8 @@
+# Technologies Used
+
+1. react redux
+2. redux Saga middleware
+
 # Key learnings
 
 1. formik
